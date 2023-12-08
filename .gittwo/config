@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@gitlab.caltech.edu:cs3-23sp/game-dumbledore.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[remote "tank-game"]
+	url = https://github.com/wduan10/tank-game.git
+	fetch = +refs/heads/*:refs/remotes/tank-game/*

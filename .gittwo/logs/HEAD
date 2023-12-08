@@ -1,0 +1,66 @@
+0000000000000000000000000000000000000000 309b6cdc0ab0a3608a4a3ec723f47080d37e6b34 wduan@caltech.edu <wduan@caltech.edu> 1685225732 +0000	clone: from git@gitlab.caltech.edu:cs3-23sp/game-dumbledore.git
+309b6cdc0ab0a3608a4a3ec723f47080d37e6b34 01188f84011fd546cb97538e2aef965f9f44c3b5 wduan@caltech.edu <wduan@caltech.edu> 1685226116 +0000	commit: changed orientation of player 2 tank
+01188f84011fd546cb97538e2aef965f9f44c3b5 291b2acf6a4fc00a93d8bd2e1bc2ac2556504461 wduan@caltech.edu <wduan@caltech.edu> 1685226600 +0000	commit: two handlers for 2 tanks
+291b2acf6a4fc00a93d8bd2e1bc2ac2556504461 0fbd05a47b22278388f86787c09005451f2dc8e3 wduan@caltech.edu <wduan@caltech.edu> 1685226616 +0000	commit: formatting
+0fbd05a47b22278388f86787c09005451f2dc8e3 299754bfee82bc13c882b068e9b8f212dd0f952b wduan@caltech.edu <wduan@caltech.edu> 1685227718 +0000	commit: more fluid movement
+299754bfee82bc13c882b068e9b8f212dd0f952b fa178d14be496eb8c363b329be34bfd974e99806 wduan@caltech.edu <wduan@caltech.edu> 1685236677 +0000	commit: fixed player movement, added bullets
+fa178d14be496eb8c363b329be34bfd974e99806 2d3cf9080c8e6073f9a841b5454f0d97f792c48a wduan@caltech.edu <wduan@caltech.edu> 1685237381 +0000	commit: added collision between walls and tanks
+2d3cf9080c8e6073f9a841b5454f0d97f792c48a 21db563d6e8c450fe5bf0010a691efe16a7f5b7e wduan@caltech.edu <wduan@caltech.edu> 1685240945 +0000	commit: fixed bullet orientation
+21db563d6e8c450fe5bf0010a691efe16a7f5b7e 4fc685b7e455b15798f5e53d6ed89a7de3897b1a wduan@caltech.edu <wduan@caltech.edu> 1685241070 +0000	commit: collision for both tank bullets
+4fc685b7e455b15798f5e53d6ed89a7de3897b1a 68024d3c9fc973d1fa47b50ad1f9eaea44aae159 wduan@caltech.edu <wduan@caltech.edu> 1685318431 +0000	commit: implemented reload time
+68024d3c9fc973d1fa47b50ad1f9eaea44aae159 26363e60347e273a40b0117687a434dac75503da wduan@caltech.edu <wduan@caltech.edu> 1685318435 +0000	commit: formatting
+26363e60347e273a40b0117687a434dac75503da a51e880c1eb841520bbfd639ea85dcb5e5885e48 wduan@caltech.edu <wduan@caltech.edu> 1685318467 +0000	commit: formatting
+a51e880c1eb841520bbfd639ea85dcb5e5885e48 65bca10eeecbeceed96d651ca625e375f6774a83 wduan@caltech.edu <wduan@caltech.edu> 1685318839 +0000	commit: fixed magic numbers
+65bca10eeecbeceed96d651ca625e375f6774a83 1d443653857e08d1ec8cea35d0fe1b86b05c2230 wduan@caltech.edu <wduan@caltech.edu> 1685319720 +0000	commit: bullets disappear after time
+1d443653857e08d1ec8cea35d0fe1b86b05c2230 53b5d9cbdb421ab4eaac3ab0877bca6758c3db3c wduan@caltech.edu <wduan@caltech.edu> 1685322218 +0000	commit: health bars implemented
+53b5d9cbdb421ab4eaac3ab0877bca6758c3db3c 40cbe70bfa4b25c5f48a311c392246d53cec7166 wduan@caltech.edu <wduan@caltech.edu> 1685509061 +0000	pull: Fast-forward
+40cbe70bfa4b25c5f48a311c392246d53cec7166 8fcd73ebb678c72c44620a836e58f695357bb05e wduan@caltech.edu <wduan@caltech.edu> 1685509836 +0000	revert: Revert "health bars implemented"
+8fcd73ebb678c72c44620a836e58f695357bb05e 40cbe70bfa4b25c5f48a311c392246d53cec7166 wduan@caltech.edu <wduan@caltech.edu> 1685509892 +0000	reset: moving to HEAD~
+40cbe70bfa4b25c5f48a311c392246d53cec7166 c2aa2f638fa10434eb20b46397b6f1803ff38414 wduan@caltech.edu <wduan@caltech.edu> 1685509916 +0000	revert: Revert "delete unecessary"
+c2aa2f638fa10434eb20b46397b6f1803ff38414 a74843158df981c7c27e283f6749478f96e638f7 wduan@caltech.edu <wduan@caltech.edu> 1685509927 +0000	revert: Revert "mouse"
+a74843158df981c7c27e283f6749478f96e638f7 ca96d2b26a14ff9ade92d951dac3305b5c8126a8 wduan@caltech.edu <wduan@caltech.edu> 1685509934 +0000	revert: Revert "TTF changes"
+ca96d2b26a14ff9ade92d951dac3305b5c8126a8 8c6a0eb6b3b20d5f7225aadb6f623c58218dad7a wduan@caltech.edu <wduan@caltech.edu> 1685509943 +0000	revert: Revert "temp main menu changes"
+8c6a0eb6b3b20d5f7225aadb6f623c58218dad7a ca96d2b26a14ff9ade92d951dac3305b5c8126a8 wduan@caltech.edu <wduan@caltech.edu> 1685510020 +0000	reset: moving to HEAD~
+ca96d2b26a14ff9ade92d951dac3305b5c8126a8 a74843158df981c7c27e283f6749478f96e638f7 wduan@caltech.edu <wduan@caltech.edu> 1685510028 +0000	reset: moving to HEAD~
+a74843158df981c7c27e283f6749478f96e638f7 c2aa2f638fa10434eb20b46397b6f1803ff38414 wduan@caltech.edu <wduan@caltech.edu> 1685510031 +0000	reset: moving to HEAD~
+c2aa2f638fa10434eb20b46397b6f1803ff38414 40cbe70bfa4b25c5f48a311c392246d53cec7166 wduan@caltech.edu <wduan@caltech.edu> 1685510034 +0000	reset: moving to HEAD~
+40cbe70bfa4b25c5f48a311c392246d53cec7166 0a0cb5769084f1e429c1ad826e002d0990f3e693 wduan@caltech.edu <wduan@caltech.edu> 1685510040 +0000	reset: moving to HEAD~
+0a0cb5769084f1e429c1ad826e002d0990f3e693 ada747854f928af4c61e7142258d3c2c764aa53d wduan@caltech.edu <wduan@caltech.edu> 1685510091 +0000	reset: moving to HEAD~
+ada747854f928af4c61e7142258d3c2c764aa53d d4823a82f02311088c6388c06cceaf14193cb2c2 wduan@caltech.edu <wduan@caltech.edu> 1685510101 +0000	reset: moving to HEAD~
+d4823a82f02311088c6388c06cceaf14193cb2c2 53b5d9cbdb421ab4eaac3ab0877bca6758c3db3c wduan@caltech.edu <wduan@caltech.edu> 1685510106 +0000	reset: moving to HEAD~
+53b5d9cbdb421ab4eaac3ab0877bca6758c3db3c 1d443653857e08d1ec8cea35d0fe1b86b05c2230 wduan@caltech.edu <wduan@caltech.edu> 1685510111 +0000	reset: moving to HEAD~
+1d443653857e08d1ec8cea35d0fe1b86b05c2230 1d443653857e08d1ec8cea35d0fe1b86b05c2230 wduan@caltech.edu <wduan@caltech.edu> 1685510196 +0000	reset: moving to HEAD
+1d443653857e08d1ec8cea35d0fe1b86b05c2230 40cbe70bfa4b25c5f48a311c392246d53cec7166 wduan@caltech.edu <wduan@caltech.edu> 1685510228 +0000	pull --tags -r origin master: Fast-forward
+40cbe70bfa4b25c5f48a311c392246d53cec7166 5e186d7a9156d031f6b1a4a7b3872a369555ce36 wduan@caltech.edu <wduan@caltech.edu> 1685510323 +0000	commit: bug fix
+5e186d7a9156d031f6b1a4a7b3872a369555ce36 53883af1ca3f2f1bfbc49a01f18efe943f22590d wduan@caltech.edu <wduan@caltech.edu> 1685510464 +0000	commit: small fix
+53883af1ca3f2f1bfbc49a01f18efe943f22590d 93c0ae830072d70055433fd601c0e5c5c4f4b50a wduan@caltech.edu <wduan@caltech.edu> 1685514159 +0000	commit: health bar cooler
+93c0ae830072d70055433fd601c0e5c5c4f4b50a 3cca8a2e98ba9622663e6c26eef09e03931f17fb wduan@caltech.edu <wduan@caltech.edu> 1685740571 +0000	pull: Fast-forward
+3cca8a2e98ba9622663e6c26eef09e03931f17fb 27d4f3da1215d9909276cfc4d07ce53a60077b81 wduan@caltech.edu <wduan@caltech.edu> 1685742843 +0000	commit: reset game implemented
+27d4f3da1215d9909276cfc4d07ce53a60077b81 f38d33da61b8131e9c2432f60b9201052b9e2ff6 wduan@caltech.edu <wduan@caltech.edu> 1685744206 +0000	commit: triangle collisions
+f38d33da61b8131e9c2432f60b9201052b9e2ff6 a72093b7180dbfa9f0205a4e4d172492e0548c97 wduan@caltech.edu <wduan@caltech.edu> 1685747656 +0000	commit: basic ai functionality
+a72093b7180dbfa9f0205a4e4d172492e0548c97 aae8e80634aea0214a7545f57872f3c3d9841848 wduan@caltech.edu <wduan@caltech.edu> 1685747832 +0000	commit: false singleplayer
+aae8e80634aea0214a7545f57872f3c3d9841848 e9508ed4311d47421cc11b5920195ea3f925888b wduan@caltech.edu <wduan@caltech.edu> 1685748219 +0000	commit: abstract bullet code
+e9508ed4311d47421cc11b5920195ea3f925888b a21bce7e026dee5f2e4929779da0f6b6a84fa731 wduan@caltech.edu <wduan@caltech.edu> 1685749570 +0000	commit: basic ai functionality
+a21bce7e026dee5f2e4929779da0f6b6a84fa731 2b5cbbbbb76c8ba455d2b1417b44601b61196b49 wduan@caltech.edu <wduan@caltech.edu> 1685948419 +0000	commit: temp change
+2b5cbbbbb76c8ba455d2b1417b44601b61196b49 f9bece3bd4b93d1ac5e91f377e750020bc6c8169 wduan@caltech.edu <wduan@caltech.edu> 1685951377 +0000	commit: ai done
+f9bece3bd4b93d1ac5e91f377e750020bc6c8169 2619523cb83f3ebaa011c1248ba602d451205f61 wduan@caltech.edu <wduan@caltech.edu> 1685951444 +0000	commit: changed to 2 player
+2619523cb83f3ebaa011c1248ba602d451205f61 d79ccdfcc5db29b9c39202701d960922b901432e wduan@caltech.edu <wduan@caltech.edu> 1686081559 +0000	pull: Fast-forward
+d79ccdfcc5db29b9c39202701d960922b901432e 2d312bc3a6d25a28baaf98d305cfd22aee18dc38 wduan@caltech.edu <wduan@caltech.edu> 1686717736 +0000	pull: Fast-forward
+2d312bc3a6d25a28baaf98d305cfd22aee18dc38 a7b2f1288a4affdb7567f70990fd9c2f725cf2a9 wduan@caltech.edu <wduan@caltech.edu> 1686717818 +0000	revert: Revert "Merge branch 'master' of gitlab.caltech.edu:cs3-23sp/game-dumbledore"
+a7b2f1288a4affdb7567f70990fd9c2f725cf2a9 e75552c62e93697516181421c342b5644aa191e2 wduan@caltech.edu <wduan@caltech.edu> 1686717837 +0000	revert: Revert "added death sound"
+e75552c62e93697516181421c342b5644aa191e2 2d312bc3a6d25a28baaf98d305cfd22aee18dc38 wduan@caltech.edu <wduan@caltech.edu> 1686717875 +0000	reset: moving to origin/master
+2d312bc3a6d25a28baaf98d305cfd22aee18dc38 1273ffa0960cfb45b69bf1bfc5f2464436ca8080 wduan@caltech.edu <wduan@caltech.edu> 1686717893 +0000	reset: moving to 1273ffa0960cfb45b69bf1bfc5f2464436ca8080
+1273ffa0960cfb45b69bf1bfc5f2464436ca8080 b0e1b8235b5adefed0d28900dc6172a2236a37b8 wduan@caltech.edu <wduan@caltech.edu> 1686717908 +0000	commit: temp
+b0e1b8235b5adefed0d28900dc6172a2236a37b8 91c15cd7ff8480644eda2c39f1902a0a15ef1fe5 wduan@caltech.edu <wduan@caltech.edu> 1686717931 +0000	pull --tags origin master: Merge made by the 'recursive' strategy.
+91c15cd7ff8480644eda2c39f1902a0a15ef1fe5 1273ffa0960cfb45b69bf1bfc5f2464436ca8080 wduan@caltech.edu <wduan@caltech.edu> 1686718087 +0000	reset: moving to 1273ffa0960cfb45b69bf1bfc5f2464436ca8080
+1273ffa0960cfb45b69bf1bfc5f2464436ca8080 91c15cd7ff8480644eda2c39f1902a0a15ef1fe5 wduan@caltech.edu <wduan@caltech.edu> 1686718093 +0000	pull --tags origin master: Fast-forward
+91c15cd7ff8480644eda2c39f1902a0a15ef1fe5 d2e8e0d11b79bab3825a7a6ee3055510bd1106c4 wduan@caltech.edu <wduan@caltech.edu> 1686718425 +0000	commit: fix
+d2e8e0d11b79bab3825a7a6ee3055510bd1106c4 e46d0bbcd561ae335d0f86879d3368a5422815e5 wduan@caltech.edu <wduan@caltech.edu> 1686718742 +0000	commit: small change
+e46d0bbcd561ae335d0f86879d3368a5422815e5 243e4e32100fc4aee5d46df4a29df7fdcf65e74e wduan@caltech.edu <wduan@caltech.edu> 1686719538 +0000	pull: Fast-forward
+243e4e32100fc4aee5d46df4a29df7fdcf65e74e e30917be207c5c785557a375fcb5a3ae74b9b407 wduan@caltech.edu <wduan@caltech.edu> 1686720011 +0000	pull: Fast-forward
+e30917be207c5c785557a375fcb5a3ae74b9b407 367d62148220aa41b9a1826162e17e5c015fcf5e wduan@caltech.edu <wduan@caltech.edu> 1686720805 +0000	commit: bug fix + balance change
+367d62148220aa41b9a1826162e17e5c015fcf5e 0000000000000000000000000000000000000000 wduan@caltech.edu <wduan@caltech.edu> 1702056236 +0000	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 367d62148220aa41b9a1826162e17e5c015fcf5e wduan@caltech.edu <wduan@caltech.edu> 1702056236 +0000	Branch: renamed refs/heads/master to refs/heads/main
+367d62148220aa41b9a1826162e17e5c015fcf5e 3f9187f2f3c806f24956237a8f00997d5cf575f7 wduan@caltech.edu <wduan@caltech.edu> 1702056331 +0000	commit: commit game
+3f9187f2f3c806f24956237a8f00997d5cf575f7 0000000000000000000000000000000000000000 wduan@caltech.edu <wduan@caltech.edu> 1702056440 +0000	Branch: renamed refs/heads/main to refs/heads/main
+3f9187f2f3c806f24956237a8f00997d5cf575f7 3f9187f2f3c806f24956237a8f00997d5cf575f7 wduan@caltech.edu <wduan@caltech.edu> 1702056440 +0000	Branch: renamed refs/heads/main to refs/heads/main
